@@ -1,0 +1,27 @@
+.container {
+    margin: auto;
+    width: 90%;
+  }
+  
+  ul {
+    list-style-type: none;
+  }
+  .person-content-container {
+    width: 40%;
+    margin: auto;
+    padding-bottom: 70px;
+  }
+  .person-content {
+    display: flex;
+    justify-content: space-between;
+    align-content: center;
+  }
+  
+  .person-details {
+    ul {
+      li {
+        font-size: 1.6em;
+      }
+    }
+  }
+  

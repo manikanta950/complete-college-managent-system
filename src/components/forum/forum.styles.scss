@@ -1,0 +1,12 @@
+.forum-container {
+    display: flex;
+    justify-content: space-between;
+    align-content: flex-start;
+    margin-top: 20px;
+    .forum-buttons {
+      width: 200px;
+      padding: 0;
+      margin: 0;
+    }
+  }
+  
